@@ -1,2 +1,6 @@
 touch up_to_date
 vi up_to_date
+git status
+git commit -m ""
+git push
+git pull
